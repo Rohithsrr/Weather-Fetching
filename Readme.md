@@ -13,7 +13,7 @@ You can easily host this project for free using GitHub Pages. Once you've pushed
 3. Under "Branch", select your main branch (e.g., `main`) and click **Save**.
 4. Your site will be live in a few minutes at `https://your-username.github.io/your-repository-name/`.
 
-**[➡️ Add Your Live Demo Link Here!]https://weathersrr.netlify.app/**
+**[➡️ Live demo:- https://weathersrr.netlify.app/**
 
 ---
 
